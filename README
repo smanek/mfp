@@ -1,5 +1,5 @@
-MyFitnessPal is cool. But there graphs/analysis sucks.
+MyFitnessPal is cool. But their graphs/analysis sucks.
 
 They'll let you download XML dumps of your progress (http://www.myfitnesspal.com/reports/results/progress/1/365), but the format is annoying.
 
-For now, this is just a tool to dump XML to CSV, so I can do real analysis in Excel. Eventually, I might want this to do more though ...
+For now, this is just a tool to dump that XML to CSV, so I can look at it in Excel. Eventually, I might want this to do more though ...
